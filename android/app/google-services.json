@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1046891038718",
+    "project_id": "phoneverify02",
+    "storage_bucket": "phoneverify02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046891038718:android:054a1bfc950b3e617b62af",
+        "android_client_info": {
+          "package_name": "com.example.verfiaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046891038718-fptt6iu84996mp6loec0ql42hqrqu8n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.verfiaction",
+            "certificate_hash": "46fa3b4d4382b7e08689428c5611ffa6c02721fa"
+          }
+        },
+        {
+          "client_id": "1046891038718-dr3986vu2017a8fnajqr7rri24adi46a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0k8z3r5T70J_Qi6SMHzU8hvAiYFPYAcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046891038718-dr3986vu2017a8fnajqr7rri24adi46a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
